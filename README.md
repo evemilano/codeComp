@@ -47,3 +47,5 @@ The generated report includes:
 - Missing files in the second theme compared to the first.
 - Added files in the second theme compared to the first.
 - Modified files with detailed line-by-line differences.
+
+Made by https://www.evemilano.com
