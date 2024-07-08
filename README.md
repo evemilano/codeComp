@@ -16,7 +16,7 @@ This script is designed to extract, compare, and report differences between two 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/theme-comparison-script.git
+   git clone https://github.com/evemilano/codeComp.git
    cd theme-comparison-script
 
 2. Install the dependencies:
